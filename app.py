@@ -11,7 +11,7 @@ st.set_page_config(
 
 # GIAO DIỆN
 
-st.title("ỨNG DỤNG TÍNH LÃI GỬI TIẾT KIỆM")
+st.title("ỨNG DỤNG TÍNH LÃI GỬI TIẾT KIỆM_CAO LÊ ÁNH TUYẾT")
 st.write("Nhập thông tin khoản tiền gửi để tính lãi và tổng số tiền nhận được.")
 
 st.divider()
@@ -96,7 +96,7 @@ if submit:
     # HIỂN THỊ KẾT QUẢ
   
     st.divider()
-    st.subheader("📊 KẾT QUẢ TÍNH LÃI")
+    st.subheader("KẾT QUẢ TÍNH LÃI")
 
     st.success("Đã tính toán thành công!")
 
